@@ -66,7 +66,7 @@ function sumAndMultiply(a, b, c) { //eslint-disable-line
  let sendItP2 = `The product of ${a} and ${b} and ${c} is ${multiplyThree}.`
  return [sumThree, multiplyThree, sendItP1, sendItP2]
 }
-
+// text
 // Here is the test for sumAndMultiply(); uncomment it to run it
 testSumAndMultiply(4,7,5);
 
